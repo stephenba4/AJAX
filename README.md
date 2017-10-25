@@ -3,4 +3,4 @@ Lynda AJAX practice
 --------
 Practice AJAX in Lynda training module
 --------
-Adding another sentence to practice commiting a change on a branch. 
+Added the final version of exercise files from the Lynda AJAX training.  
